@@ -38,7 +38,5 @@ The objective of this lab is to extract a password hash from a protected PDF fil
 
 ---
 
-## 5. Result
-The password was successfully cracked.
 
-**Cracked Password:** `123456`
+
